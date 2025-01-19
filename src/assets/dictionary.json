@@ -1,0 +1,44 @@
+{
+  "uz": {
+    "translation": {
+      "aboutUs": "Biz haqimizda",
+      "2msg": "[Saytingiz nomi] ga xush kelibsiz – bu yerda [saytingizning maqsadi yoki yo‘nalishi] innovatsiya va ishtiyoq bilan birlashadi.",
+      "who-we-are": "Biz kimmiz",
+      "3msg": "Biz [jamoangizni tasvirlab bering, masalan, mutaxassislar, ishqibozlar yoki ekspertlar]dan iborat jamoamiz va [asosiy takliflaringiz yoki qadriyatlaringizni ko‘rsating, masalan, sifatli kontent, ishonchli xizmatlar, innovatsion yechimlar]ni yetkazib berishga sodiqmiz. [Yilingizni kiriting] yildan beri bizning maqsadimiz [missiyangizni ta'kidlang, masalan, qo‘llab-quvvatlash, ilhomlantirish, o‘qitish, bog‘lash] bo‘lib kelgan.",
+      "what-we-do": "Biz nima qilamiz",
+      "4msg": "[Saytingiz nomi] da biz [asosiy xizmatlaringiz, mahsulotlaringiz yoki yo‘nalishlaringizni tasvirlang] bo‘yicha ixtisoslashganmiz. Siz [saytingizda taklif qilinadigan aniq narsalarni ko‘rsating] izlayotgan bo‘lasizmi yoki shunchaki [kengroq maqsadni ko‘rsating, masalan, o‘rganish, izlanish yoki bog‘lanish], biz sizning tajribangizni muammosiz va mazmunli qilish uchun shu yerdamiz.",
+      "why-choose-us": "Nega bizni tanlaysiz",
+      "5msg": "Biz [noyob kuchli tomonlaringizni ta'kidlang, masalan, yuqori sifat, shaxsiylashtirilgan yordam, mijozlarga birinchi navbatda xizmat] bilan faxrlanamiz. Bizning [aniq qadriyatlaringizni ko‘rsating, masalan, barqarorlik, innovatsiya, halollik]ga bo‘lgan sodiqligimiz sizga har safar eng yaxshi tajribani taqdim etadi.",
+      "our-vision": "Bizning vizyonimiz",
+      "6msg": "[Uzoq muddatli maqsadingizni yoki ko‘rinishingizni bayon qiling, masalan, sohaga inqilob qilish, ijobiy ta'sir ko‘rsatish yoki mustahkam aloqalar o‘rnatish]."
+    }
+  },
+  "ru": {
+    "translation": {
+      "aboutUs": "About Us",
+      "2msg": "Добро пожаловать на [Название вашего сайта] – место, где [миссия или фокус вашего сайта] встречаются с инновациями и страстью.",
+      "who-we-are": "Кто мы",
+      "3msg": "Мы – команда преданных [опишите вашу команду или организацию, например, профессионалов, энтузиастов или экспертов], стремящихся предоставить [ваши основные предложения или ценности, например, качественный контент, надежные услуги, инновационные решения]. С момента нашего основания в [год] мы стремимся [выделите свою миссию, например, вдохновлять, обучать, объединять].",
+      "what-we-do": "Чем мы занимаемся",
+      "4msg": "На [Название вашего сайта] мы специализируемся на [опишите ваши ключевые услуги, продукты или направления]. Ищете ли вы [конкретные детали о том, что предлагает ваш сайт], или просто хотите [укажите более широкую цель, например, узнать, исследовать или установить связь], мы здесь, чтобы сделать ваш опыт легким и значимым.",
+      "why-choose-us": "Почему выбирают нас",
+      "5msg": "Мы гордимся [подчеркните свои уникальные сильные стороны, например, исключительное качество, персонализированная поддержка, ориентированность на клиента]. Наша приверженность [укажите конкретные ценности, например, устойчивое развитие, инновации, честность] гарантирует, что вы получите лучший опыт каждый раз.",
+      "our-vision": "Наше видение",
+      "6msg": "[Сформулируйте вашу долгосрочную цель или видение, например, революционизировать индустрию, оказать положительное влияние или создать прочные связи]."
+    }
+  },
+  "en": {
+    "translation": {
+      "aboutUs": "О нас",
+      "2msg": "Welcome to [Your Website Name] – where [mission or focus of your website] meets innovation and passion.",
+      "who-we-are": "Who We Are",
+      "3msg": "We are a team of dedicated [describe your team or organization, e.g., professionals, enthusiasts, or experts] committed to delivering [state your core offerings or values, e.g., quality content, reliable services, innovative solutions]. Since our inception in [year], we’ve strived to [highlight your mission, e.g., empower, inspire, educate, connect].",
+      "what-we-do": "What We Do",
+      "4msg": "At [Your Website Name], we specialize in [describe your key services, products, or focus areas]. Whether you're looking for [specific details about what your website offers], or simply [state a broader purpose, e.g., looking to learn, explore, or connect], we’re here to make your experience seamless and meaningful.",
+      "why-choose-us": "Why Choose Us",
+      "5msg": "We pride ourselves on [highlight unique strengths, e.g., exceptional quality, personalized support, a customer-first approach]. Our commitment to [specific values, e.g., sustainability, innovation, integrity] ensures that you get the best experience every time.",
+      "our-vision": "Our Vision",
+      "6msg": "To [state your long-term goal or vision, e.g., revolutionize an industry, make a positive impact, or create lasting connections]."
+    }
+  }
+}
